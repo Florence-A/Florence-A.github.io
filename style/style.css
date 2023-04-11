@@ -1,0 +1,9 @@
+body {
+    background-color: #12364e;
+    color: aliceblue;
+    text-align: center;
+}
+#the-gif {
+    max-width: 150px;
+    border-radius: 50px;
+}
